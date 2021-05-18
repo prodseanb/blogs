@@ -11,3 +11,7 @@ Resources required for this lab:
 - VMware Workstation 16 Pro (or any virtualization software)
 - Kali Linux virtual machine
 - Metasploitable 2 virtual machine
+### Learning Objectives
+- Installation and configuration of Metasploitable and Kali Linux on VMware Workstation
+- Find 5 vulnerabilities
+- Learn 5 common attacks/exploit techniques
