@@ -10,7 +10,7 @@ The objective of [this project](https://prodseanb.github.io/docs/Kali%20Linux%20
 Resources required for this lab:
 - VMware Workstation 16 Pro (or any virtualization software)
 - Kali Linux virtual machine
-- Metasploitable 2 virtual machine
+- Metasploitable 2 virtual machine<br />
 
 ### Learning Objectives
 - Installation and configuration of Metasploitable and Kali Linux on VMware Workstation
