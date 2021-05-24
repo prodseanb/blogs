@@ -20,4 +20,4 @@ Resources required for this lab:
 - Learn 5 common attacks/exploit techniques
 
 # The Global Impacts of Artificial Intelligence
-[A short essay](https://github.com/prodseanb/prodseanb.github.io/blob/master/docs/The%20Global%20Impacts%20of%20Artificial%20Intelligence.pdf) documenting my compiled research on Artificial Intelligence and Machine Learning. This is a short and straightforward introduction to AI and Machine Learning that answers some of the most common controversial questions related to transition from workplace traditions, sustainability, etc.  
+[A short essay](https://github.com/prodseanb/prodseanb.github.io/blob/master/docs/The%20Global%20Impacts%20of%20Artificial%20Intelligence.pdf) documenting my compiled research on Artificial Intelligence and Machine Learning. This is a short and straightforward introduction to AI and Machine Learning that answers some of the most common and controversial questions related to sustainability, transition from the traditional workplace environment, culture influences, etc.  
