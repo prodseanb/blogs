@@ -17,3 +17,6 @@ Resources required for this lab:
 - Installation and configuration of Metasploitable and Kali Linux on VMware Workstation
 - Find 5 vulnerabilities
 - Learn 5 common attacks/exploit techniques
+
+# The Global Impacts of Artificial Intelligence
+[A short essay](https://github.com/prodseanb/prodseanb.github.io/blob/master/docs/The%20Evolution%20of%20Artificial%20Intelligence.pdf) documenting my compiled research on Artificial Intelligence and Machine Learning. This is a very basic and short introduction to AI and Machine Learning that answers some of the most common controversial questions related to the transition from workplace traditions, sustainability, etc.  
