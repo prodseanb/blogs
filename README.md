@@ -1,7 +1,7 @@
 ```python
 ## @Author: prodseanb
 ```
-- [prodseanb.github.com](https://prodseanb.github.io/)
+[prodseanb.github.com](https://prodseanb.github.io/)
 
 # Objective
 This repository contains all my research documents and project reports on a broad range of topics and fields such as Python, Artificial Intelligence and Machine Learning, Computer Systems and Networking, Linux, InfoSec, Cybersecurity, DevOps, and more.<br /><br />
