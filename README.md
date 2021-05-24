@@ -2,6 +2,7 @@
 ## @Author: prodseanb
 ```
 - [prodseanb.github.com](https://prodseanb.github.io/)
+
 # Objective
 This repository contains all my research documents and project reports on a broad range of topics and fields such as Python, Artificial Intelligence and Machine Learning, Computer Systems and Networking, Linux, InfoSec, Cybersecurity, DevOps, and more.<br /><br />
 The objective of this collection of research and labs is to expand both my knowledge and expertise on the fields I mentioned. I am an avid learner and researcher who embraces the challenge of learning something new everyday.
@@ -19,4 +20,4 @@ Resources required for this lab:
 - Learn 5 common attacks/exploit techniques
 
 # The Global Impacts of Artificial Intelligence
-[A short essay](https://github.com/prodseanb/prodseanb.github.io/blob/master/docs/The%20Evolution%20of%20Artificial%20Intelligence.pdf) documenting my compiled research on Artificial Intelligence and Machine Learning. This is a very basic and short introduction to AI and Machine Learning that answers some of the most common controversial questions related to the transition from workplace traditions, sustainability, etc.  
+[A short essay](https://github.com/prodseanb/prodseanb.github.io/blob/master/docs/The%20Global%20Impacts%20of%20Artificial%20Intelligence.pdf) documenting my compiled research on Artificial Intelligence and Machine Learning. This is a short and straightforward introduction to AI and Machine Learning that answers some of the most common controversial questions related to transition from workplace traditions, sustainability, etc.  
