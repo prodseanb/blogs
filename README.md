@@ -20,10 +20,10 @@ Resources required for this lab:
 - Learn 5 common attacks/exploit techniques
 
 # The Global Impacts of Artificial Intelligence
-[A short essay](https://github.com/prodseanb/prodseanb.github.io/blob/master/docs/The%20Global%20Impacts%20of%20Artificial%20Intelligence.pdf) documenting my compiled research on Artificial Intelligence and Machine Learning. This is a short and concise introduction to AI and Machine Learning that answers some of the most common and controversial questions related to sustainability, transition from the traditional workplace environment, culture influences, etc.  
+[A short essay](https://prodseanb.github.io/docs/The%20Global%20Impacts%20of%20Artificial%20Intelligence.pdf) documenting my compiled research on Artificial Intelligence and Machine Learning. This is a short and concise introduction to AI and Machine Learning that answers some of the most common and controversial questions related to sustainability, transition from the traditional workplace environment, culture influences, etc.  
 
 # Mr. Robot CTF (Vulnhub)
-[This CTF documentation](https://github.com/prodseanb/prodseanb.github.io/blob/master/docs/Hacking%20MrRobot.pdf) serves as a rundown of my first CTF attempt. This vulnerable machine is based on the show [Mr. Robot](https://en.wikipedia.org/wiki/Mr._Robot). In this document, I explore several methods of exploitation and security tools.
+[This CTF documentation](https://prodseanb.github.io/docs/Hacking%20MrRobot.pdf) serves as a rundown of my first CTF attempt. This vulnerable machine is based on the show [Mr. Robot](https://en.wikipedia.org/wiki/Mr._Robot). In this document, I explore several methods of exploitation and security tools.
 ### References
 - [camelinc](http://camelinc.info/blog/2017/02/Vulnhub---Mr-Robot-1-boot2root-CTF-walkthrough/ )
 - [christophetd](https://blog.christophetd.fr/write-up-mr-robot/)
