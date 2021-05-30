@@ -29,3 +29,5 @@ Resources required for this lab:
 - [christophetd](https://blog.christophetd.fr/write-up-mr-robot/)
 - [mrpnkt](https://mrpnkt.github.io/2016/writeup-mr-robot-1/)
 - [HackHappy](https://www.youtube.com/watch?v=taxKNsTRLgI)
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
