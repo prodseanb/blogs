@@ -19,8 +19,12 @@ Resources required for this lab:
 - Find 5 vulnerabilities
 - Learn 5 common attacks/exploit techniques
 
-# The Global Impacts of Artificial Intelligence
-[A short essay](https://prodseanb.github.io/docs/The%20Global%20Impacts%20of%20Artificial%20Intelligence.pdf) documenting my compiled research on Artificial Intelligence and Machine Learning. This is a short and concise introduction to AI and Machine Learning that answers some of the most common and controversial questions related to sustainability, transition from the traditional workplace environment, culture influences, etc.  
+# Raven: 1 CTF (Vulnhub)
+[A CTF demonstration](), exploiting a basic Boot2Root machine from Vulnhub. In this document, I discovered several common and unique pentesting techniques and tools.  
+### References
+- [Nikhil Kumar](https://resources.infosecinstitute.com/topic/raven-1-ctf-walkthrough/)
+- [Raj Chandel](https://www.hackingarticles.in/hack-the-raven-walkthrough-ctf-challenge/)
+- [John Svazic](https://infosecjohn.blog/posts/vulnhub-raven/)
 
 # Mr. Robot CTF (Vulnhub)
 ![elliot](https://user-images.githubusercontent.com/59718043/120413210-dc2bdb00-c325-11eb-9ef0-ee2bcd8c4e3f.jpg)
@@ -31,9 +35,5 @@ Resources required for this lab:
 - [mrpnkt](https://mrpnkt.github.io/2016/writeup-mr-robot-1/)
 - [HackHappy](https://www.youtube.com/watch?v=taxKNsTRLgI)
 
-# Raven: 1 CTF (Vulnhub)
-[A CTF demonstration](), exploiting a basic Boot2Root machine from Vulnhub. In this document, I discovered several common and unique pentesting techniques and tools.  
-### References
-- [Nikhil Kumar](https://resources.infosecinstitute.com/topic/raven-1-ctf-walkthrough/)
-- [Raj Chandel](https://www.hackingarticles.in/hack-the-raven-walkthrough-ctf-challenge/)
-- [John Svazic](https://infosecjohn.blog/posts/vulnhub-raven/)
+# The Global Impacts of Artificial Intelligence
+[A short essay](https://prodseanb.github.io/docs/The%20Global%20Impacts%20of%20Artificial%20Intelligence.pdf) documenting my compiled research on Artificial Intelligence and Machine Learning. This is a short and concise introduction to AI and Machine Learning that answers some of the most common and controversial questions related to sustainability, transition from the traditional workplace environment, culture influences, etc.  
