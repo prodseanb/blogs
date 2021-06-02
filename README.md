@@ -20,7 +20,7 @@ Resources required for this lab:
 - Learn 5 common attacks/exploit techniques
 
 # Raven: 1 CTF (Vulnhub)
-[A CTF demonstration](), exploiting a basic Boot2Root machine from Vulnhub. In this document, I discovered several common and unique pentesting techniques and tools.  
+[A CTF demonstration](https://prodseanb.github.io/docs/Raven1_CTF.pdf), exploiting a basic Boot2Root machine from Vulnhub. In this document, I discovered several common and unique pentesting techniques and tools.  
 ### References
 - [Nikhil Kumar](https://resources.infosecinstitute.com/topic/raven-1-ctf-walkthrough/)
 - [Raj Chandel](https://www.hackingarticles.in/hack-the-raven-walkthrough-ctf-challenge/)
