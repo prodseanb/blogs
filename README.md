@@ -54,5 +54,5 @@ Resources required for this lab:
 
 ```python
 ## @Author: prodseanb
-## @Edit: New documents will be uploaded soon.
+## @Edit: More documents will be uploaded soon.
 ```
