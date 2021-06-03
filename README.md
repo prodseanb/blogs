@@ -2,10 +2,6 @@
 ## @Author: prodseanb
 ```
 ![coding-freak](https://user-images.githubusercontent.com/59718043/120569049-2921b700-c3e3-11eb-8375-987138650d68.gif)
-
-
-[prodseanb.github.io](https://prodseanb.github.io/)
-
 # Objective
 This repository contains all my research documents and project reports on a broad range of topics and fields such as Python, Artificial Intelligence and Machine Learning, Computer Systems and Networking, Linux, InfoSec, Cybersecurity, DevOps, and more.<br /><br />
 The objective of this compilation of research and labs is to expand and diversify both my knowledge and expertise on the fields I mentioned. I am an avid learner and researcher who embraces the challenge of learning something new everyday.
@@ -56,3 +52,7 @@ Resources required for this lab:
 ## @Author: prodseanb
 ## @Edit: More documents will be uploaded soon.
 ```
+[![icons8-github-50](https://user-images.githubusercontent.com/59718043/120592282-934e5200-c40b-11eb-8030-10a103a1420a.png)
+](https://github.com/prodseanb/prodseanb.github.io/tree/master/docs)[![icons8-linkedin-50](https://user-images.githubusercontent.com/59718043/120592398-cee91c00-c40b-11eb-8d91-0ed34ff25ff5.png)
+](https://www.linkedin.com/in/sean-bachiller-40b63417b/)[![icons8-web-50](https://user-images.githubusercontent.com/59718043/120593124-04dad000-c40d-11eb-84f3-47d3e2d976f0.png)
+](https://prodseanb.github.io/)
