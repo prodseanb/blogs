@@ -1,7 +1,7 @@
 ```python
 ## @Author: prodseanb
 ```
-![process](https://user-images.githubusercontent.com/59718043/120568146-52414800-c3e1-11eb-9d8e-849994b57325.gif)
+![coding-freak](https://user-images.githubusercontent.com/59718043/120569049-2921b700-c3e3-11eb-8375-987138650d68.gif)
 
 
 [prodseanb.github.io](https://prodseanb.github.io/)
@@ -30,7 +30,8 @@ Resources required for this lab:
 - [John Svazic](https://infosecjohn.blog/posts/vulnhub-raven/)
 
 # Mr. Robot CTF (Vulnhub)
-![elliot](https://user-images.githubusercontent.com/59718043/120413210-dc2bdb00-c325-11eb-9ef0-ee2bcd8c4e3f.jpg)
+![fight](https://user-images.githubusercontent.com/59718043/120569256-8b7ab780-c3e3-11eb-8aa2-32d9a06dc317.gif)
+
 [This CTF documentation](https://prodseanb.github.io/docs/Hacking%20MrRobot.pdf) serves as a rundown of my first CTF attempt. This vulnerable machine is based on the show [Mr. Robot](https://en.wikipedia.org/wiki/Mr._Robot). In this document, I explored several methods of exploitation and security tools.
 ### References
 - [camelinc](http://camelinc.info/blog/2017/02/Vulnhub---Mr-Robot-1-boot2root-CTF-walkthrough/ )
