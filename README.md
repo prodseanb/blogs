@@ -51,3 +51,8 @@ Resources required for this lab:
 
 # The Global Impacts of Artificial Intelligence
 [A short essay](https://prodseanb.github.io/docs/The%20Global%20Impacts%20of%20Artificial%20Intelligence.pdf) documenting my compiled research on Artificial Intelligence and Machine Learning. This is a short and concise introduction to AI and Machine Learning that answers some of the most common and controversial questions related to sustainability, transition from the traditional workplace environment, culture influences, etc.  
+
+```python
+## @Author: prodseanb
+## @Edit: More documents will be uploaded soon.
+```
