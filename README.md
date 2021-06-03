@@ -29,6 +29,11 @@ Resources required for this lab:
 - [Raj Chandel](https://www.hackingarticles.in/hack-the-raven-walkthrough-ctf-challenge/)
 - [John Svazic](https://infosecjohn.blog/posts/vulnhub-raven/)
 
+### Learning Objectives
+- Utilize various security footprinting tools
+- Analyse site vulnerabilities and entry points
+- Discover red team techniques
+
 # Mr. Robot CTF (Vulnhub)
 ![fight](https://user-images.githubusercontent.com/59718043/120569256-8b7ab780-c3e3-11eb-8aa2-32d9a06dc317.gif)
 
@@ -38,6 +43,11 @@ Resources required for this lab:
 - [christophetd](https://blog.christophetd.fr/write-up-mr-robot/)
 - [mrpnkt](https://mrpnkt.github.io/2016/writeup-mr-robot-1/)
 - [HackHappy](https://www.youtube.com/watch?v=taxKNsTRLgI)
+### Learning Objectives
+- Perform common footprinting techniques
+- Learn common website/web app vulnerabilities
+- Discover new ways to attack
+- Learn how to use various security tools
 
 # The Global Impacts of Artificial Intelligence
 [A short essay](https://prodseanb.github.io/docs/The%20Global%20Impacts%20of%20Artificial%20Intelligence.pdf) documenting my compiled research on Artificial Intelligence and Machine Learning. This is a short and concise introduction to AI and Machine Learning that answers some of the most common and controversial questions related to sustainability, transition from the traditional workplace environment, culture influences, etc.  
