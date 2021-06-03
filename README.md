@@ -39,6 +39,7 @@ Resources required for this lab:
 - [christophetd](https://blog.christophetd.fr/write-up-mr-robot/)
 - [mrpnkt](https://mrpnkt.github.io/2016/writeup-mr-robot-1/)
 - [HackHappy](https://www.youtube.com/watch?v=taxKNsTRLgI)
+
 ### Learning Objectives
 - Perform common footprinting techniques
 - Learn common website/web app vulnerabilities
