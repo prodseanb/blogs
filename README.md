@@ -51,7 +51,7 @@ Resources required for this lab:
 
 ```python
 ## @Author: prodseanb
-## @Edit: More documents will be uploaded soon.
+## @Edit: More documents will be uploaded soon. Check out the site for more content. (Link below) 
 ```
 [![icons8-github-50](https://user-images.githubusercontent.com/59718043/120592282-934e5200-c40b-11eb-8030-10a103a1420a.png)
 ](https://github.com/prodseanb/prodseanb.github.io/tree/master/docs)[![icons8-linkedin-50](https://user-images.githubusercontent.com/59718043/120592398-cee91c00-c40b-11eb-8d91-0ed34ff25ff5.png)
