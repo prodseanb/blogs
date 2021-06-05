@@ -48,10 +48,11 @@ Resources required for this lab:
 
 # The Global Impacts of Artificial Intelligence
 [A short essay](https://prodseanb.github.io/docs/The%20Global%20Impacts%20of%20Artificial%20Intelligence.pdf) documenting my compiled research on Artificial Intelligence and Machine Learning. This is a short and concise introduction to AI and Machine Learning that answers some of the most common and controversial questions related to sustainability, transition from the traditional workplace environment, culture influences, etc.  
-
+<br />
+#### Check out [prodseanb.github.io](https://prodseanb.github.io/) for more content.
 ```python
 ## @Author: prodseanb
-## @Edit: More documents will be uploaded soon. Check out the site for more content. (Link below) 
+## @Edit: More documents will be uploaded soon.
 ```
 [![icons8-github-50](https://user-images.githubusercontent.com/59718043/120592282-934e5200-c40b-11eb-8030-10a103a1420a.png)
 ](https://github.com/prodseanb/prodseanb.github.io/tree/master/docs)[![icons8-linkedin-50](https://user-images.githubusercontent.com/59718043/120592398-cee91c00-c40b-11eb-8d91-0ed34ff25ff5.png)
