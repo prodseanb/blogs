@@ -6,8 +6,13 @@
 })();
 
 function scrollTo() {
-	const links = document.querySelectorAll('.scroll');
-	links.forEach(each => (each.onclick = scrollAnchors));
+	var links = document.getElementsByTagName('a');
+	for (var i = 0; i < links.length; i++) {
+		var link = links[i];
+		if ((link.href && link.href.indexOf('#') != -1) && ((link.pathname == location.pathname) || ('/' + link.pathname == location.pathname)) && (link.search == location.search)) {
+			link.onclick = scrollAnchors;
+		}
+	}
 }
 
 function scrollAnchors(e, respond = null) {
@@ -28,3 +33,10 @@ function scrollAnchors(e, respond = null) {
 		}
 	}, 100);
 }
+
+document.addEventListener('click', function(e) {
+	event = e || window.e;
+    var target = e.target || e.srcElement;
+    var respond = document.getElementById('respond-link');
+	if (e.target.classList.contains('scroll-live')) scrollAnchors(e, respond);
+});
