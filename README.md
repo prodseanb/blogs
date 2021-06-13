@@ -5,6 +5,7 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://github.com/prodseanb/prodseanb.github.io/blob/master/LICENSE)
 [![Generic badge](https://img.shields.io/badge/follow-LinkedIn-<COLOR>.svg)](https://www.linkedin.com/in/sean-bachiller-40b63417b/)
 [![Generic badge](https://img.shields.io/badge/follow-Twitter-<COLOR>.svg)](https://twitter.com/prodseanb)
+[![Generic badge](https://img.shields.io/badge/visit-page-<COLOR>.svg)](https://prodseanb.github.io/)
 [![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://github.com/prodseanb/prodseanb.github.io/blob/master/docs/)
 ![coding-freak](https://user-images.githubusercontent.com/59718043/120569049-2921b700-c3e3-11eb-8375-987138650d68.gif)
 # Objective
