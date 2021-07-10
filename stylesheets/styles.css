@@ -271,3 +271,14 @@ footer {
     color:#444;
   }
 }
+
+.page-nav {
+  justify-content: center;
+  text-align: center;
+  align-self: center;
+}
+.page-nav .previous, .next {
+  font-size: 20px;
+  font-weight: 500;
+  padding: 10%;
+}

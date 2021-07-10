@@ -1,67 +1,14 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<?php include('includes/header.php'); ?> 
 
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>prodseanb.github.io | Research documents, reports, labs, home projects, etc.</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="prodseanb.github.io" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Research documents, reports, labs, home projects, etc." />
-<meta property="og:description" content="Research documents, reports, labs, home projects, etc." />
-<link rel="canonical" href="https://prodseanb.github.io/" />
-<meta property="og:url" content="https://prodseanb.github.io/" />
-<meta property="og:site_name" content="prodseanb.github.io" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="prodseanb.github.io" />
-<script type="application/ld+json">
-{"description":"Research documents, reports, labs, home projects, etc.","headline":"prodseanb.github.io","url":"https://prodseanb.github.io/","@type":"WebSite","name":"prodseanb.github.io","@context":"https://schema.org"}</script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<!-- End Jekyll SEO tag -->
-
-  
-    <link rel="stylesheet" href="/stylesheets/styles.css?v=0243c4deba3f64b0ce3a9bdc9337a073bebac405">
-    <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="https://prodseanb.github.io/">prodseanb.github.io</a></h1>
-        
-        
-
-        <p>Research documents, reports, labs, home projects, etc.</p>
-
-        
-
-        
-        <p class="view"><a href="https://github.com/prodseanb">View My GitHub Profile</a></p>
-        <br />
-        <h3>Projects:</h3>
-        <p>
-           <a href="#kali-linux--metasploitable-pentesting-project">📌 Kali Linux + Metasploitable</a><br />
-           <a href="#raven-1-ctf-vulnhub">📌 Raven: 1</a><br />
-           <a href="#mr-robot-ctf-vulnhub">📌 Mr. Robot</a><br />
-           <a href="#the-global-impacts-of-artificial-intelligence">📌 Artificial Intelligence</a><br />
-           <a href="#technology-essay">📌 Where will technology take us?</a>
-           
-
-         </p>
-
-
-      </header>
       <section>
 
-      <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Author: prodseanb
+      <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Author: Sean Bachiller
 </span></code></pre></div></div>
 <p><img src="https://user-images.githubusercontent.com/59718043/120569049-2921b700-c3e3-11eb-8375-987138650d68.gif" alt="coding-freak by https://dribbble.com/leanlongo" /></p>
 <h1 id="objective">Hello World!</h1>
-<p>This repository contains all my research documents and project reports on a broad range of topics and fields such as Python, Artificial Intelligence and Machine Learning, Computer Systems and Networking, Linux, InfoSec, Cybersecurity, DevOps, and more along the world of computers and technology.<br /><br />
+<p>
+  A brief introduction. My name is Sean, I am an independent researcher based in Toronto, Canada. I specialize in Python and InfoSec. I like doing CTFs, building home labs, building projects, etc. This is my space for creative and analytic thinking.<br /><br /> 
+  This repository contains all my research documents and project reports on a broad range of topics and fields such as Python, Artificial Intelligence and Machine Learning, Computer Systems and Networking, Linux, InfoSec, Cybersecurity, DevOps, and more along the world of computers and technology.<br /><br />
 The objective of this compilation of research and labs is to expand and diversify my knowledge and expertise on the fields I mentioned. I am an avid learner and researcher who embraces the challenge of learning something new everyday. Check me out on <a href="https://github.com/prodseanb">GitHub</a>.</p>
 <h1 id="kali-linux--metasploitable-pentesting-project">Kali Linux + Metasploitable Pentesting Project</h1>
 <p>The objective of <a href="https://prodseanb.github.io/docs/Kali%20Linux%20Metasploitable.pdf">this project</a> is to simulate a penetration testing environment and explore common exploitation tools and security procedures.</p>
@@ -122,22 +69,14 @@ The objective of this compilation of research and labs is to expand and diversif
 <h1 id="technology-essay">Where will technology take us?</h1>
 <p><a href="https://prodseanb.github.io/docs/Where-will-technology-take-us.pdf">This short summary</a> of research dives deep into the future of technology. To be able to predict the future of technology, I decided to study the connection between its present and past state, as well as the biggest driving factors that will motivate technology towards evolution.</p>
 
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Author: prodseanb
-## @Edit: More documents will be uploaded soon.
-</span></code></pre></div></div>
 
+
+<div class="page-nav">
+<!--<a href="#" class="previous round">&#8249;Previous</a>-->
+<a href="blog/2/index.php" class="next round">Next&#8250;</a>
+</div>
 
       </section>
-      <footer>
-        
-        <p><a href="https://github.com/prodseanb/prodseanb.github.io/tree/master/docs"><img src="https://user-images.githubusercontent.com/59718043/120592282-934e5200-c40b-11eb-8030-10a103a1420a.png" alt="icons8-github-50" />
-</a><a href="https://www.linkedin.com/in/sean-bachiller-40b63417b/"><img src="https://user-images.githubusercontent.com/59718043/120592398-cee91c00-c40b-11eb-8d91-0ed34ff25ff5.png" alt="icons8-linkedin-50" />
-</a><a href="https://prodseanb.github.io/"><img src="https://user-images.githubusercontent.com/59718043/120593124-04dad000-c40d-11eb-84f3-47d3e2d976f0.png" alt="icons8-web-50" />
-</a><a href="https://twitter.com/prodseanb"><img src="https://user-images.githubusercontent.com/59718043/120881748-6b90f280-c5a1-11eb-9239-655cab835aa8.png" alt="icons8-twitter-50" /></p>
-
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    <script src="javascripts/scroll.js"></script>
-  </body>
-</html>
+<?php 
+include('includes/footer.php'); 
+?> 
