@@ -11,13 +11,13 @@
   This repository contains all my research documents and project reports on a broad range of topics and fields such as Python, Artificial Intelligence and Machine Learning, Computer Systems and Networking, Linux, InfoSec, Cybersecurity, DevOps, and more along the world of computers and technology.<br /><br />
 The objective of this compilation of research and labs is to expand and diversify my knowledge and expertise on the fields I mentioned. I am an avid learner and researcher who embraces the challenge of learning something new everyday. Check me out on <a href="https://github.com/prodseanb">GitHub</a>.</p>
 <h1 id="kali-linux--metasploitable-pentesting-project">Kali Linux + Metasploitable Pentesting Project</h1>
-<p>The objective of <a href="https://raw.githubusercontent.com/prodseanb/prodseanb.github.io/master/docs/Kali%20Linux%20Metasploitable.pdf">this project</a> is to simulate a penetration testing environment and explore common exploitation tools and security procedures.</p>
+<p>The objective of <a href="/articles/kali-meta/index.php">this project</a> is to simulate a penetration testing environment and explore common exploitation tools and security procedures.</p>
 <h3 id="resources">Resources</h3>
-<p>Resources required for this lab:</p>
+<p>Resources required:</p>
 <ul>
-  <li>VMware Workstation 16 Pro (or any virtualization software)</li>
-  <li>Kali Linux virtual machine</li>
-  <li>Metasploitable 2 virtual machine<br /></li>
+  <li>VMware Workstation (or any virtualization software)</li>
+  <li>Kali Linux VM</li>
+  <li>Metasploitable 2 VM<br /></li>
 </ul>
 
 <h3 id="learning-objectives">Learning Objectives</h3>
@@ -73,7 +73,7 @@ The objective of this compilation of research and labs is to expand and diversif
 
 <div class="page-nav">
 <!--<a href="#" class="previous round">&#8249;Previous</a>-->
-<a href="blog/2/index.php" class="next round">Next&#8250;</a>
+<a href="page/2/index.php" class="next round">Next&#8250;</a>
 </div>
 
       </section>
