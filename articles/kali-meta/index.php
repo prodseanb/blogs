@@ -410,6 +410,7 @@ The easiest way to gain access to this machine is by using <a href="https://en.w
 <div class="highlight"><pre class="highlight">
 <code><span class="c1">nc -nv 172.16.47.129 1524
 </span></code></pre></div></div>
+<p><b>-nv</b> - numeric-only IP addresses, no DNS, verbose</p>
 <div class="language-sh highlighter-rouge">
 <div class="highlight"><pre class="highlight">
 <code><span class="c1">Output:
@@ -432,31 +433,31 @@ root@metasploitable:/#
 <tbody>
 <tr>
 <td>Metasploitable VM</td>
-<td><a href="https://sourceforge.net/projects/metasploitable/">https://sourceforge.net/projects/metasploitable/</a></td>
+<td><a href="https://sourceforge.net/projects/metasploitable/">SourceForge</a></td>
 </tr>
 <tr>
 <td>Kali Linux VM</td>
-<td><a href="https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/">https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/</a></td>
+<td><a href="https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/">Offensive-Security</a></td>
 </tr>
 <tr>
 <td>What is a Network File System (NFS)?</td>
-<td><a href="https://searchenterprisedesktop.techtarget.com/definition/Network-File-System">https://searchenterprisedesktop.techtarget.com/definition/Network-File-System</a></td>
+<td><a href="https://searchenterprisedesktop.techtarget.com/definition/Network-File-System">TechTarget</a></td>
 </tr>
 <tr>
 <td>View Available Exports on an NFS Server</td>
-<td><a href="https://www.jamescoyle.net/how-to/1019-view-available-exports-on-an-nfs-server">https://www.jamescoyle.net/how-to/1019-view-available-exports-on-an-nfs-server</a></td>
+<td><a href="https://www.jamescoyle.net/how-to/1019-view-available-exports-on-an-nfs-server">James Coyle</a></td>
 </tr>
 <tr>
 <td>Internet Relay Chat Wiki</td>
-<td><a href="https://en.wikipedia.org/wiki/Internet_Relay_Chat">https://en.wikipedia.org/wiki/Internet_Relay_Chat</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Internet_Relay_Chat">Wiki</a></td>
 </tr>
 <tr>
 <td>Bind Shells</td>
-<td><a href="https://medium.com/@PenTest_duck/bind-vs-reverse-vs-encrypted-shells-what-should-you-use-6ead1d947aa9">https://medium.com/@PenTest_duck/bind-vs-reverse-vs-encrypted-shells-what-should-you-use-6ead1d947aa9</a></td>
+<td><a href="https://medium.com/@PenTest_duck/bind-vs-reverse-vs-encrypted-shells-what-should-you-use-6ead1d947aa9">PenTest_duck</a></td>
 </tr>
 <tr>
 <td>Netcat Wiki</td>
-<td><a href="https://en.wikipedia.org/wiki/Netcat">https://en.wikipedia.org/wiki/Netcat</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Netcat">Wiki</a></td>
 </tr>
 </tbody>
 </table>
@@ -466,7 +467,7 @@ root@metasploitable:/#
 </span></code></pre></div></div>
 
 <div class="page-nav">
-<a href="/index.php" class="previous round">&#8249;Previous</a>
+<a href="/index.php" class="previous round">&#8249;Home</a>
 <!--<a href="#" class="next round">Next&#8250;</a>-->
 </div>
 

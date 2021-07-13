@@ -31,7 +31,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="https://prodseanb.herokuapp.com/">Sean Bachiller</a></h1>
+        <h1><a href="/index.php">Sean Bachiller</a></h1>
         
     
 
@@ -44,7 +44,7 @@
         <h3>Projects:</h3>
         <p>
            <a href="/articles/kali-meta/index.php">📌 Kali Linux + Metasploitable</a><br />
-           <a href="https://raw.githubusercontent.com/prodseanb/prodseanb.github.io/master/docs/Raven1_CTF.pdf">📌 Raven: 1</a><br />
+           <a href="/articles/raven1/index.php">📌 Raven: 1</a><br />
            <a href="https://raw.githubusercontent.com/prodseanb/prodseanb.github.io/master/docs/Hacking%20MrRobot.pdf">📌 Mr. Robot</a><br />
            <a href="https://raw.githubusercontent.com/prodseanb/prodseanb.github.io/master/docs/The%20Global%20Impacts%20of%20Artificial%20Intelligence.pdf">📌 Artificial Intelligence</a><br />
            <a href="https://raw.githubusercontent.com/prodseanb/prodseanb.github.io/master/docs/Where-will-technology-take-us.pdf">📌 Where will technology take us?</a><br />

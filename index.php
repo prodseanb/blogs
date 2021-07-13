@@ -28,7 +28,7 @@ The objective of this compilation of research and labs is to expand and diversif
 </ul>
 
 <h1 id="raven-1-ctf-vulnhub">Raven: 1 CTF (Vulnhub)</h1>
-<p><a href="https://raw.githubusercontent.com/prodseanb/prodseanb.github.io/master/docs/Raven1_CTF.pdf">A CTF demonstration</a>, exploiting a basic Boot2Root machine from Vulnhub. In this document, I discovered several common and unique pentesting techniques and tools.</p>
+<p><a href="/articles/raven1/index.php">A CTF demonstration</a>, exploiting a basic Boot2Root machine from Vulnhub. In this document, I discovered several common and unique pentesting techniques and tools.</p>
 <h3 id="references">References</h3>
 <ul>
   <li><a href="https://resources.infosecinstitute.com/topic/raven-1-ctf-walkthrough/">Nikhil Kumar</a></li>
