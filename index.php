@@ -7,7 +7,7 @@
 <p><img src="https://user-images.githubusercontent.com/59718043/120569049-2921b700-c3e3-11eb-8375-987138650d68.gif" alt="coding-freak by https://dribbble.com/leanlongo" /></p>
 <h1 id="objective">Hello World!</h1>
 <p>
-  A brief introduction. My name is Sean, I am an independent researcher based in Toronto, Canada. I specialize in Python and InfoSec. I like doing CTFs, building home labs, building projects, etc. This is my space for creative and analytic thinking.<br /><br /> 
+  A brief introduction. My name is Sean Bachiller, I am an independent researcher based in Toronto, Canada. I specialize in Python and InfoSec. I like doing CTFs, building home labs, building projects, etc. This is my space for creative and analytic thinking.<br /><br /> 
   This repository contains all my research documents and project reports on a broad range of topics and fields such as Python, Artificial Intelligence and Machine Learning, Computer Systems and Networking, Linux, InfoSec, Cybersecurity, DevOps, and more along the world of computers and technology.<br /><br />
 The objective of this compilation of research and labs is to expand and diversify my knowledge and expertise on the fields I mentioned. I am an avid learner and researcher who embraces the challenge of learning something new everyday. Check me out on <a href="https://github.com/prodseanb">GitHub</a>.</p>
 <h1 id="kali-linux--metasploitable-pentesting-project">Kali Linux + Metasploitable Pentesting Project</h1>
