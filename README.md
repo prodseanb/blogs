@@ -1,10 +1,8 @@
+![coding-freak](https://user-images.githubusercontent.com/59718043/120569049-2921b700-c3e3-11eb-8375-987138650d68.gif)
 ```python
 ## @Author: prodseanb
 ```
 
-[![Generic badge](https://img.shields.io/badge/follow-LinkedIn-<COLOR>.svg)](https://www.linkedin.com/in/sean-bachiller-40b63417b/)
-[![Generic badge](https://img.shields.io/badge/follow-Twitter-<COLOR>.svg)](https://twitter.com/prodseanb)
-![coding-freak](https://user-images.githubusercontent.com/59718043/120569049-2921b700-c3e3-11eb-8375-987138650d68.gif)
 # Objective
 A brief introduction. My name is Sean, I am an independent researcher based in Toronto, Canada. I specialize in Python and InfoSec. I like doing CTFs, building home labs, building projects, etc. This is my space for creative and analytic thinking.<br /><br />
 [seanb.dev](https://seanb.dev/) - This repository contains all my research documents and project reports on a broad range of topics and fields such as Python, Artificial Intelligence and Machine Learning, Computer Systems and Networking, Linux, InfoSec, Cybersecurity, DevOps, and more.<br /><br />
