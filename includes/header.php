@@ -12,13 +12,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Research documents, reports, labs, home projects, etc." />
 <meta property="og:description" content="Research documents, reports, labs, home projects, etc." />
-<link rel="canonical" href="https://prodseanb.github.io/" />
-<meta property="og:url" content="https://prodseanb.github.io/" />
-<meta property="og:site_name" content="prodseanb.github.io" />
+<link rel="canonical" href="https://seanb.dev/" />
+<meta property="og:url" content="https://seanb.dev/" />
+<meta property="og:site_name" content="seanb.dev" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="prodseanb.github.io" />
+<meta property="twitter:title" content="seanb.dev" />
 <script type="application/ld+json">
-{"description":"Research documents, reports, labs, home projects, etc.","headline":"prodseanb.github.io","url":"https://prodseanb.github.io/","@type":"WebSite","name":"prodseanb.github.io","@context":"https://schema.org"}</script>
+{"description":"Research documents, reports, labs, home projects, etc.","headline":"prodseanb.github.io","url":"https://seanb.dev/","@type":"WebSite","name":"seanb.dev","@context":"https://schema.org"}</script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <!-- End Jekyll SEO tag -->
 
@@ -46,7 +46,7 @@
            <a href="/articles/kali-meta/index.php">📌 Kali Linux + Metasploitable</a><br />
            <a href="/articles/raven1/index.php">📌 Raven: 1</a><br />
            <a href="/articles/mrrobot/index.php">📌 Mr. Robot</a><br />
-           <a href="https://raw.githubusercontent.com/prodseanb/prodseanb.github.io/master/docs/The%20Global%20Impacts%20of%20Artificial%20Intelligence.pdf">📌 Artificial Intelligence</a><br />
+           <a href="/articles/ai/index.php">📌 Artificial Intelligence</a><br />
            <a href="https://raw.githubusercontent.com/prodseanb/prodseanb.github.io/master/docs/Where-will-technology-take-us.pdf">📌 Where will technology take us?</a><br />
            <a href="https://github.com/prodseanb/ctflearn-writeups">📌 CTFLearn Writeups</a>
 
