@@ -46,7 +46,7 @@ The objective of this compilation of research and labs is to expand and diversif
 <h1 id="mr-robot-ctf-vulnhub">Mr. Robot CTF (Vulnhub)</h1>
 <p><img src="https://user-images.githubusercontent.com/59718043/120569256-8b7ab780-c3e3-11eb-8aa2-32d9a06dc317.gif" alt="fight by https://dribbble.com/madebyradio" /></p>
 
-<p><a href="https://raw.githubusercontent.com/prodseanb/prodseanb.github.io/master/docs/Hacking%20MrRobot.pdf">This CTF documentation</a> serves as a rundown of my first CTF attempt. This vulnerable machine is based on the show <a href="https://en.wikipedia.org/wiki/Mr._Robot">Mr. Robot</a>. In this document, I explored several methods of exploitation and security tools.</p>
+<p><a href="/articles/mrrobot/index.php">This CTF documentation</a> serves as a rundown of my first CTF attempt. This vulnerable machine is based on the show <a href="https://en.wikipedia.org/wiki/Mr._Robot">Mr. Robot</a>. In this document, I explored several methods of exploitation and security tools.</p>
 <h3 id="references-1">References</h3>
 <ul>
   <li><a href="http://camelinc.info/blog/2017/02/Vulnhub---Mr-Robot-1-boot2root-CTF-walkthrough/">camelinc</a></li>

@@ -78,6 +78,9 @@ At this point, we should run an nmap to see what we're dealing with.
 <div class="highlight"><pre class="highlight">
 <code><span class="c1">nmap -v -A 172.16.101.129
 </span></code></pre></div></div>
+<p>
+<b>-A</b> - enables OS detection, version detection, script scanning, and traceroute.    
+</p>
 <div class="language-sh highlighter-rouge">
 <div class="highlight"><pre class="highlight">
 <code><span class="c1">Output:
@@ -172,7 +175,7 @@ The <b>--enumerate</b> option specifies the types of enumeration processes: <b>v
 <div class="highlight"><pre class="highlight">
 <code><span class="c1">Output:
 _______________________________________________________
-__          _______   _____
+    __          _______   _____
     \ \        / /  __ \ / ____|
      \ \  /\  / /| |__) | (___   ___  __ _ _ __ ®
       \ \/  \/ / |  ___/ \___ \ / __|/ _` | '_ \

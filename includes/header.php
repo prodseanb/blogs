@@ -31,21 +31,21 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="/index.php">Sean Bachiller</a></h1>
+        <h1><a href="/index.php">seanb.dev</a></h1>
         
     
 
-        <p>Research documents, reports, labs, blogs, etc.</p>
+        <p>Tech blogs, security articles, programming, etc.</p>
 
         
 
 
         <p class="view"><a href="https://github.com/prodseanb">GitHub | @prodseanb</a></p>
-        <h3>Projects:</h3>
+        <h3>Articles:</h3>
         <p>
            <a href="/articles/kali-meta/index.php">📌 Kali Linux + Metasploitable</a><br />
            <a href="/articles/raven1/index.php">📌 Raven: 1</a><br />
-           <a href="https://raw.githubusercontent.com/prodseanb/prodseanb.github.io/master/docs/Hacking%20MrRobot.pdf">📌 Mr. Robot</a><br />
+           <a href="/articles/mrrobot/index.php">📌 Mr. Robot</a><br />
            <a href="https://raw.githubusercontent.com/prodseanb/prodseanb.github.io/master/docs/The%20Global%20Impacts%20of%20Artificial%20Intelligence.pdf">📌 Artificial Intelligence</a><br />
            <a href="https://raw.githubusercontent.com/prodseanb/prodseanb.github.io/master/docs/Where-will-technology-take-us.pdf">📌 Where will technology take us?</a><br />
            <a href="https://github.com/prodseanb/ctflearn-writeups">📌 CTFLearn Writeups</a>
