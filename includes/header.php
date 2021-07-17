@@ -8,17 +8,17 @@
 <!-- Begin Jekyll SEO tag v2.7.1 -->
 <title>Sean Bachiller | Research documents, reports, labs, home projects, etc.</title>
 <meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="prodseanb.github.io" />
+<meta property="og:title" content="seanb.dev" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Research documents, reports, labs, home projects, etc." />
-<meta property="og:description" content="Research documents, reports, labs, home projects, etc." />
+<meta name="description" content="Tech blogs, security articles, programming, etc." />
+<meta property="og:description" content="Tech blogs, security articles, programming, etc." />
 <link rel="canonical" href="https://seanb.dev/" />
 <meta property="og:url" content="https://seanb.dev/" />
 <meta property="og:site_name" content="seanb.dev" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="seanb.dev" />
 <script type="application/ld+json">
-{"description":"Research documents, reports, labs, home projects, etc.","headline":"prodseanb.github.io","url":"https://seanb.dev/","@type":"WebSite","name":"seanb.dev","@context":"https://schema.org"}</script>
+{"description":"Tech blogs, security articles, programming, etc.","headline":"seanb.dev","url":"https://seanb.dev/","@type":"WebSite","name":"seanb.dev","@context":"https://schema.org"}</script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <!-- End Jekyll SEO tag -->
 
