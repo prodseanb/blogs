@@ -8,7 +8,7 @@ include($basedir.'includes/header.php');
       <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Author: Sean Bachiller
 </span></code></pre></div></div>
 
-<p><img src="https://user-images.githubusercontent.com/59718043/125656845-69bc71f2-caa1-4eac-a51e-92c5118a9864.gif" alt="mr robot show" /></p>
+<div style="width:100%;height:0;padding-bottom:139%;position:relative;"><iframe src="https://giphy.com/embed/W3klTgJuKy5vymEoe7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coelho-fabiocoelho-fpc1987-W3klTgJuKy5vymEoe7"></a></p>
 <h1 id="ctflearn">Mr. Robot CTF</h1>
 <p>
 Mr. Robot is a beginner to intermediate vulnerable machine from the repository of <a href="https://www.vulnhub.com/">Vulnhub</a>.
@@ -118,7 +118,7 @@ The site contains no useful information other than intriguing "recruiting" video
 
 <br/><br/>
 <h1>First flag - Robots</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125670618-7f265723-e38e-4fa4-ac81-d2025ad0e554.png" alt="robots.txt" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126023484-d458b33e-a93c-446e-ba5f-ea7679054486.png" alt="robots" /></p>
 <p>
 Append <b>robots.txt</b> to the URL and navigate to the first flag.
 </p>
@@ -218,7 +218,7 @@ Unfortunately, this returns no useful information other than an outdated WordPre
 
 <br/><br/>
 <h1>Brute forcing login credentials</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125717885-588c8844-c52b-49d2-92ca-01292a5c273c.png" alt="brute force" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126023666-2ee5662d-9c4a-4705-802a-1480b19a15e0.jpg" alt="brute force man beating up another guy" /></p>
 <p>
 Previously, when we navigated into <b>robots.txt</b>, we found 2 files. One contains the flag and the
 other (fsocity.dic) is a wordlist. The wordlist can be used alongside Hydra to brute force the 
@@ -255,7 +255,7 @@ duplicates.
 
 
 
-<p><img src="https://user-images.githubusercontent.com/59718043/125720257-9d0c81ef-45a9-4809-b18f-65626e982c21.png" alt="hydra" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126023762-c2c1db47-4e26-4e1f-a506-dd41363c3e25.jpg" alt="dragons" /></p>
 
 <p>Now we can bruteforce the page using Hydra (may take a while):
 </p>
@@ -345,7 +345,7 @@ The credentials should give us access to the site's WordPress admin dashboard.
 
 <br/><br/>
 <h1>Gaining shell access - PHP code injection</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125726256-6bb0c2a4-2fec-42e1-b44f-4bdd736eea78.gif" alt="injection" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126023854-f6a42fcd-5f8a-468d-9793-7df7689066d1.jpg" alt="injection" /></p>
 
 
 <p>
@@ -414,7 +414,7 @@ We're in!
 </p>
 <br/><br/>
 <h1>Second flag - Dissecting the shell</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125729322-5c58af60-95c2-43ae-bbba-d71983601590.gif" alt="flag with multiple colors" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126023954-139a0533-01c2-4c09-8a73-410276241a63.jpg" alt="shells" /></p>
 
 <p>Exploring further, we can find <b>/home/robot</b>, a directory that contains 2 files,
 an unreadable file that belongs only to the user <b>robot</b> containing the second flag, and a file that
@@ -476,7 +476,7 @@ robot@linux:~$
 
 <br/><br/>
 <h1>Third flag - Privilege escalation</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125731142-e7bb7c57-f315-4396-8eb0-8c6a31a70f1f.jpg" alt="privilege escalation" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126024055-248dad44-940f-49fb-84fe-8a84edef7e1f.png" alt="privilege escalation escalator" /></p>
 
 <p>Gaining root privilege would be the next step. Ideally, there would be an exploitable
 <b>setuid</b> file we can search for.
@@ -538,7 +538,7 @@ firstboot_done  key-3-of-3.txt
 </span></code></pre></div></div>
 
 <p>That's it! We have all 3 flags. We have successfully owned Mr. Robot.</p>
-<p><img src="https://user-images.githubusercontent.com/59718043/125383159-f9ac8580-e364-11eb-98c3-2678c853d366.png" alt="pwned" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126025334-bd226787-4374-4c87-bf63-a945131a9b8c.jpg" alt="game over" /></p>
 
 <h1>Sources</h1>
 
@@ -585,6 +585,43 @@ firstboot_done  key-3-of-3.txt
 <tr>
 <td>Linux Privilege Escalation with Setuid and Nmap</td>
 <td><a href="https://www.adamcouch.co.uk/linux-privilege-escalation-setuid-nmap/">adamcouch</a></td>
+</tr>
+</tbody>
+</table>
+
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>Media</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://giphy.com/gifs/coelho-fabiocoelho-fpc1987-W3klTgJuKy5vymEoe7">fabiocoelho GIF via GIPHY</a></td>
+</tr>
+<tr>
+<td><a href="https://lucid.app/">Topology diagram via Lucid</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/vector">Vector Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/cartoon">Cartoon Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/hydra">Hydra Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/injection-syringe">Injection Syringe Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/shell">Shell Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/people">People Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/game-over">Game Over Vectors by Vecteezy</a></td>
 </tr>
 </tbody>
 </table>

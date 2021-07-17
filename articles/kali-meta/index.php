@@ -8,7 +8,7 @@ include($basedir.'includes/header.php');
       <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Author: Sean Bachiller
 </span></code></pre></div></div>
 
-<p><img src="https://user-images.githubusercontent.com/59718043/125168322-08cbe180-e173-11eb-940a-71279dd33fba.gif" alt="cmd by https://dribbble.com/iskragraphics" /></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3oz8xA9gtnyVDPZJHW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/animation-internet-computers-3oz8xA9gtnyVDPZJHW"></a></p>
 <h1 id="ctflearn">Kali Linux + Metasploitable Homelab Writeup</h1>
 <p>We are going to explore and simulate a pentesting lab environment with
     Kali Linux as the attacker and Metasploitable as the target. This
@@ -66,7 +66,7 @@ PORT     STATE     SERVICE     VERSION
 21/tcp   open      ftp         vsftpd 2.3.4  
 </span></code></pre></div></div>
 <h3>Metasploit - Pentesting Framework</h3>
-<p><img src="https://user-images.githubusercontent.com/59718043/125181890-4bbfa080-e1d7-11eb-868d-44fb95715396.png" alt="metasploit logo" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126025692-74c3c8ab-9216-42b3-b14e-9827ddfa508e.png" alt="skull on screen" /></p>
 <p>
 We're going to use <a href="https://www.metasploit.com/">Metasploit</a>,
 a powerful exploit database and framework for pentesting, to search for
@@ -173,7 +173,7 @@ uid=0(root) gid=0(root)
 
 <br/><br/>
 <h1>Exploiting NFS</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125182809-1b7c0000-e1df-11eb-9442-25209f05283c.png" alt="nfs design" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126025875-48609338-0c2a-49e2-9265-d6c68b3f60e8.jpg" alt="file sharing" /></p>
 <p>
 A Network File System is a client/server application used for remote file sharing
 within a network. This is the next vulnerability we're going to attack.
@@ -288,7 +288,7 @@ vulnerability exploit module via Metasploit.
 <br/><br/>
 
 <h1>Exploiting IRC</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125184094-073d0080-e1e9-11eb-98d5-216eead56641.gif" alt="irc chat gif" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126026178-5fb83a02-278a-4890-b95e-9df2b94cf35e.png" alt="open door" /></p>
 
 <p>
 Internet Relay Chat (IRC) is a protocol that facilitates communication in the form 
@@ -393,7 +393,7 @@ through an IRC vulnerability.
 </p>
 
 <h1>Exploiting Port 1524/TCP Bindshell</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125225107-acfd7780-e29c-11eb-8b9f-80657c78028d.jpg" alt="backdoor" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126026031-5a1a64f0-1f5a-4c0e-938d-0f2b5ff65753.jpg" alt="hacker" /></p>
 <div class="language-sh highlighter-rouge">
 <div class="highlight"><pre class="highlight">
 <code><span class="c1">1524/tcp open   bindshell   Metasploitable root shell
@@ -462,6 +462,33 @@ root@metasploitable:/#
 </tbody>
 </table>
 
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>Media</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://giphy.com/gifs/animation-internet-computers-3oz8xA9gtnyVDPZJHW">Animation Hacking GIF by vewn via GIPHY</a></td>
+</tr>
+<tr>
+<td><a href="https://lucid.app/">Topology diagram via Lucid</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/hack">Hack Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/file">File Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/close-door">Close Door Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/hacker">Hacker Vectors by Vecteezy</a></td>
+</tr>
+</tbody>
+</table>
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Author: Sean Bachiller
 ## @Date: Jul 11 2021
 </span></code></pre></div></div>

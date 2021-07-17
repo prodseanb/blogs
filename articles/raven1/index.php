@@ -8,7 +8,7 @@ include($basedir.'includes/header.php');
       <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Author: Sean Bachiller
 </span></code></pre></div></div>
 
-<p><img src="https://user-images.githubusercontent.com/59718043/125229406-bee31880-e2a4-11eb-8797-d5f2635cc050.gif" alt="loading computer gif" /></p>
+<div style="width:100%;height:0;padding-bottom:96%;position:relative;"><iframe src="https://giphy.com/embed/3oz8xQ6746bq8fjBBu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/3oz8xQ6746bq8fjBBu"></a></p>
 <h1 id="ctflearn">Raven 1 CTF</h1>
 <p>
 Raven is a beginner to intermediate vulnerable machine from the repository of <a href="https://www.vulnhub.com/">Vulnhub</a>.
@@ -100,7 +100,7 @@ We can open up a browser and type in Raven's address, in my case it's 172.16.101
 
 <br/><br/>
 <h1>Flag #1 - Source code analysis</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125316505-2b423400-e306-11eb-851b-cdaac6d2b8ef.png" alt="source code analysis" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126024577-9e30a8f8-14d8-4e3b-86f0-c3d01815df85.jpg" alt="source code analysis" /></p>
 <p>
 While searching for hard-coded hints within the site's source code, I found the first flag
 hidden in <b>service.html</b>.
@@ -229,7 +229,7 @@ redirect the scan.
 </span></code></pre></div></div>
 <br/><br/>
 <h1>Flag #2 - Exploiting an open SSH port</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125316138-d4d4f580-e305-11eb-95be-aa0d16cba776.jpg" alt="direct acces to server" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126024684-626ef2ec-e188-4918-a0a9-d3ed1a3bde93.jpg" alt="direct acces to backdoor" /></p>
 <p>
 It looks like we found 2 valid usernames. We can use these to SSH into 
 the server. When we executed an <b>nmap</b> scan earlier, we found an open
@@ -273,7 +273,7 @@ michael@Raven:~$
 </span></code></pre></div></div>
 
 <h3>Weak password = disappointment</h3>
-<p><img src="https://user-images.githubusercontent.com/59718043/125356363-1da3a300-e334-11eb-9d4c-1dd10d59b754.png" alt="disappointed" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126024775-d00ad734-26f9-4dd0-8f7f-2aac571d7396.jpg" alt="disappointed" /></p>
 
 <p>The password I used was 'michael'. This opens a connection remotely,
 now we can safely assume that the second flag should be in here somewhere.
@@ -311,7 +311,7 @@ flag2{fc3fd58dcdad9ab23faca6e9a36e581c}
 <br/><br/>
 
 <h1>Misconfigured MySQL settings</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125358931-922c1100-e337-11eb-94e0-5e28d4d61194.jpg" alt="misconfigured database" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126024873-d34cb26b-0166-4963-8cf8-c8c33bd2ea3a.jpg" alt="misconfigured database" /></p>
 
 
 <p>Navigating into <b>/var/www/</b>, we can find a wordpress directory.</p>
@@ -466,7 +466,7 @@ password, so now we only need to worry about decrypting Steven's.
 </p>
 <br/><br/>
 <h1>Cracking Steven's password - John the Ripper</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125376995-332bc380-e35a-11eb-943f-49a069ab6389.png" alt="John the Ripper" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126024951-d671b0fa-a0f7-4ef5-b0df-2cc8b75fe522.jpg" alt="Password cracking" /></p>
 
 <p><a href="https://www.openwall.com/john/">John the Ripper</a> is a password
 recovery and security auditing tool. We will be using this tool to crack Steven's encoded password.
@@ -522,7 +522,7 @@ Steven's password: <b>pink84</b>
 
 <br/><br/>
 <h1>Flag #4 - Gaining root access</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125381502-0380b980-e362-11eb-889c-5b2e1be3c7fe.jpg" alt="groot as root" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126025183-87a0d5df-7250-4400-a5e3-f4218e6daef3.jpg" alt="root access hacker hacked" /></p>
 
 <div class="language-sh highlighter-rouge">
 <div class="highlight"><pre class="highlight">
@@ -635,7 +635,7 @@ post_status: draft
 <br/><br/>
 That's it! We have all 4 flags. We have successfully owned Raven.
 </p>
-<p><img src="https://user-images.githubusercontent.com/59718043/125383159-f9ac8580-e364-11eb-98c3-2678c853d366.png" alt="pwned" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/126025334-bd226787-4374-4c87-bf63-a945131a9b8c.jpg" alt="game over" /></p>
 
 <h1>Sources</h1>
 
@@ -678,6 +678,42 @@ That's it! We have all 4 flags. We have successfully owned Raven.
 </tbody>
 </table>
 
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>Media</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/source-code">Source Code Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://lucid.app/">Topology diagram via Lucid</a></td>
+</tr>
+<tr>
+<td><a href="https://giphy.com/gifs/3oz8xQ6746bq8fjBBu">Type Hacker GIF by Nishanth Sanjay via GIPHY</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/cartoon">Cartoon Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/disappointment">Disappointment Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/database">Database Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/abstract">Abstract Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/hacked">Hacked Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/game-over">Game Over Vectors by Vecteezy</a></td>
+</tr>
+</tbody>
+</table>
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Author: Sean Bachiller
 ## @Date: Jul 12 2021
 </span></code></pre></div></div>

@@ -8,7 +8,7 @@ include($basedir.'includes/header.php');
       <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Author: Sean Bachiller
 </span></code></pre></div></div>
 
-<p><img src="https://user-images.githubusercontent.com/59718043/125828816-376157c8-b302-4b86-b74d-09308be638f1.gif" alt="ai and humans" /></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/iINsn3itkNfYmteX0z" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scientist-researcher-astar-iINsn3itkNfYmteX0z"></a></p>
 <h1 id="ctflearn">What is Artificial Intelligence?</h1>
 <p>
 In this article, we will explore the global impacts of <b>Artificial Intelligence</b> 
@@ -28,7 +28,8 @@ And most importantly, what is the relationship between AI and environmental sust
 
 <br/><br/>
 <h1>Machine Learning</h1>
-<p><img src="https://user-images.githubusercontent.com/59718043/125829173-e83848e4-2e10-49fd-9b8d-05a18bc3038d.gif" alt="machine learning neural networks" /></p>
+<a href=""></a>
+<p><img src="https://user-images.githubusercontent.com/59718043/126022768-9c7a3149-5784-4269-9c89-8badc7ea4d10.jpg" alt="Lines Vectors by Vecteezy - https://www.vecteezy.com/free-vector/lines" /></p>
 <p>
 To delve in deeper into these questions, we must understand Artificial Intelligence. AI’s fundamental purpose is to learn. 
 A machine’s learning process is comparable to a human brain. <b>Machine learning</b> is a process executed by a 
@@ -45,7 +46,7 @@ performs its own diagnoses, proven to be as accurate as trained medical professi
 As it analyzes various images, its neural network expands. Hence, it  develops a better decision-making process and provides better 
 findings.
 </p>
-<p><img src="https://user-images.githubusercontent.com/59718043/125831912-70074f65-19e6-4ccf-a9b3-28871784856f.png" alt="machine learning as a human" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/125979419-9ad1ce71-a877-4735-8033-cb0fdfb07117.jpg" alt="Bot Vectors by Vecteezy - https://www.vecteezy.com/free-vector/bot" /></p>
 <p>
 Think of it like the <b>early stages of human life</b>. As we grow older, our perspectives expand as we learn new things. 
 The more we learn, the better our judgment becomes, for most people at least. Comparing it to the model of machine learning, 
@@ -69,7 +70,7 @@ However, this results in <b>20 million jobs lost</b>. How do our governments and
 for the government to provide a universal income, payment made to the entire population regardless of their status of employment. Or they could create new jobs 
 that would incorporate humans and technology together in the workplace.
 </p>
-<p><img src="https://user-images.githubusercontent.com/59718043/125833693-450a2642-09c5-4e6a-96f7-d29af11a8309.jpg" alt="bots and humans in the workplace" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/125981620-8c571726-ea70-4b64-a986-fcf4439a34fc.jpg" alt="Machine Learning Vectors by Vecteezy - https://www.vecteezy.com/free-vector/machine-learning" /></p>
 <p>
 The unpredictability and uncertainty of our future circumstances with Artificial Intelligence is what's causing fear and doubt
 about its nature and potential.
@@ -81,7 +82,8 @@ Most of us do not realize that technology will only go as further as humans want
 decisions. AI is centered on <b>human behavior</b>. The possibility of it becoming sentient depends on the decision of the developer. 
 And the possibility of it killing us all is slim, unless it is allowed by humans.
 </p>
-<p><img src="https://user-images.githubusercontent.com/59718043/125836102-963d8e19-59d3-40ff-80f9-34d7791b3222.gif" alt="elmo pixel fire" /></p>
+<p><img src="https://user-images.githubusercontent.com/59718043/125978741-53d1f640-deea-414f-a7fe-e946e9d980c6.jpg" alt="Fire Vectors by Vecteezy - https://www.vecteezy.com/free-vector/fire" /></p>
+
 <p>
 Professor Lon Appleby also mentioned that we could explore technology just like how we discovered many uses for fire. 
 The discovery of fire was one of our very first steps to evolution. We are responsible for treating it either as a useful 
@@ -103,7 +105,8 @@ globally, run on massive quantities of data. These three companies have incorpor
 a cloud platform, an internet-based data center. This reduces the energy needed to power their large data centers. 
 <br/><br/>
 </p>
-<p><img src="https://user-images.githubusercontent.com/59718043/125839596-142deca3-4df6-433e-870f-411c339d153e.png" alt="cloud" /></p>
+
+<p><img src="https://user-images.githubusercontent.com/59718043/125980561-cd6f3a8f-6d03-4489-9093-0a115b428945.jpg" alt="Cloud Computing Vectors by Vecteezy - https://www.vecteezy.com/free-vector/cloud-computing" /></p>
 
 <p>
 In agriculture, AI has also helped farmers monitor crops and improve crop yields with the help of <b>drones</b> and 
@@ -162,6 +165,34 @@ There will come a time when the universe decides to banish us all, technology wi
 <tr>
 <td>Environmental Sustainability and AI</td>
 <td><a href="https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/?sh=79ca8a8f7db3">Gow, G.</a></td>
+</tr>
+</tbody>
+</table>
+
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>Media</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/cloud-computing">Cloud Computing Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/fire">Fire Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/hand-drawn">Hand Drawn Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/artificial-intelligence">Artificial Intelligence Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://www.vecteezy.com/free-vector/lines">Lines Vectors by Vecteezy</a></td>
+</tr>
+<tr>
+<td><a href="https://giphy.com/stickers/scientist-researcher-astar-iINsn3itkNfYmteX0z">Agency for Science, Technology and Research (A*STAR) Sticker via GIPHY</a></td>
 </tr>
 </tbody>
 </table>
