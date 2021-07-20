@@ -22,7 +22,7 @@ In this short walkthrough, we will learn how to send a basic POST request using 
 <h3><a href="/articles/post-practice/index.php">Read more...</a></h3>
 <br/><br/>
 <h2>How to Scrape Cryptocurrency Data in Python</h2>
-<pre><code>## @Date: Jul 20 2021</pre></code>
+<pre><code>## @Date: Jul 19 2021</pre></code>
 <p>
 Need to keep track of the latest cryptocurrency news and data? In this article, we will be learning how to scrape credible sites 
 for real-time cryptocurrency data in Python using <a href="https://pypi.org/project/beautifulsoup4/">BeautifulSoup</a>, including the current price, market cap, 
