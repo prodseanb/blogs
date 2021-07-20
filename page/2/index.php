@@ -5,25 +5,32 @@ include($basedir.'includes/header.php');
 
       <section>
 
-      <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Author: Sean Bachiller
+      <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Page: 2
 </span></code></pre></div></div>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l2R09a5L5Bb6ppV7y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vaporwave-aesthetics-future-funk-l2R09a5L5Bb6ppV7y"></a></p>
+<br/><br/>
+<h2>Kali Linux + Metasploitable Homelab Writeup</h2>
+<pre><code>## @Date: Jul 11 2021</pre></code>
+<p>
+We are going to explore and simulate a pentesting lab environment with
+    Kali Linux as the attacker and Metasploitable as the target. This
+    is one of the most basic and fundamental setups if you want to get started with InfoSec.
+</p>
+<h3><a href="/articles/kali-meta/index.php">Read more...</a></h3>
 
 
-<h1 id="ctflearn">CTFLearn Writeups</h1>
-<p><a href="https://github.com/prodseanb/ctflearn-writeups">A repository</a> containing my attempts on various CTFs from <a href="https://ctflearn.com">CTFLearn.com</a>.</p>
-
-<h3 id="learning-objectives-1">Learning Objectives</h3>
-<ul>
-  <li>Cryptography</li>
-  <li>Forensics</li>
-  <li>Web vulnerabilities</li>
-  <li>Binary</li>
-  <li>Reverse Engineering</li>
-  <li>Programming</li>
-</ul>
-
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Author: Sean Bachiller
-## @Edit: More documents will be uploaded soon.
+<br/><br/>
+<table>
+<th>Media</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://giphy.com/gifs/vaporwave-aesthetics-future-funk-l2R09a5L5Bb6ppV7y">90's pixel art GIF by Johnny2x4 via GIPHY</a></td>
+</tr>
+</tbody>
+</table>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Edit: More articles will be uploaded soon.
 </span></code></pre></div></div>
 
 <div class="page-nav">

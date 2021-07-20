@@ -21,7 +21,7 @@
 {"description":"Tech blogs, security articles, programming, etc.","headline":"seanb.dev","url":"https://seanb.dev/","@type":"WebSite","name":"seanb.dev","@context":"https://schema.org"}</script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <!-- End Jekyll SEO tag -->
-
+<script data-ad-client="ca-pub-3721466090870729" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   
     <link rel="stylesheet" href="/stylesheets/styles.css?v=0243c4deba3f64b0ce3a9bdc9337a073bebac405">
     <!--[if lt IE 9]>
@@ -31,25 +31,31 @@
   <body>
     <div class="wrapper">
       <header>
+
+
         <h1><a href="/index.php">seanb.dev</a></h1>
-        
+
     
 
         <p>Tech blogs, security articles, programming, etc.</p>
-
+        <p><img src="https://user-images.githubusercontent.com/59718043/126366395-67ab3083-2fe9-4846-a43a-0f8266dcd99f.gif" alt="coding-freak by https://dribbble.com/leanlongo" /></p>
         
 
 
-        <p class="view"><a href="https://github.com/prodseanb">GitHub | @prodseanb</a></p>
-        <h3>Articles:</h3>
+        <h3>Latest articles:</h3>
         <p>
-           <a href="/articles/kali-meta/index.php">📌 Kali Linux + Metasploitable</a><br />
-           <a href="/articles/raven1/index.php">📌 Raven: 1</a><br />
-           <a href="/articles/mrrobot/index.php">📌 Mr. Robot</a><br />
+           <a href="/articles/post-practice/index.php">📌 POST Practice</a><br />
+           <a href="/articles/cryptocheck/index.php">📌 Python Crypto Scraper</a><br />
            <a href="/articles/ai/index.php">📌 Artificial Intelligence</a><br />
-           <a href="https://raw.githubusercontent.com/prodseanb/prodseanb.github.io/master/docs/Where-will-technology-take-us.pdf">📌 Where will technology take us?</a><br />
-           <a href="https://github.com/prodseanb/ctflearn-writeups">📌 CTFLearn Writeups</a>
-
+           <a href="/articles/mrrobot/index.php">📌 Mr. Robot</a><br />
+           <a href="/articles/raven1/index.php">📌 Raven: 1</a><br />
+           <a href="/articles/kali-meta/index.php">📌 Kali Linux + Metasploitable</a>
+           
+           
+           
+           
+           <!--<br/><br/>
+           <a href="page/articles/index.php">View more...</a>-->
          </p>
 
 
