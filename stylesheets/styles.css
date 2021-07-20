@@ -112,7 +112,11 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-
+header p img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 header ul {
   list-style:none;
   height:40px;
