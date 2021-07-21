@@ -171,9 +171,9 @@ Here in this block of code, we set the file to accept the execution of additiona
 the database, and handle some logical errors. 
 
 <br/><br/>
-This line: 
+This line from the current block: 
 <br/>
-<code>requests = requests.get(f'https://coinmarketcap.com/currencies/{sys.argv[1]}')</code>
+<pre><code>requests = requests.get(f'https://coinmarketcap.com/currencies/{sys.argv[1]}')</pre></code>
 <br/>
 connects us to the URL, which contains a value depending on the currency name argument <code>sys.argv[1]</code>. 
 <br/><br/>
