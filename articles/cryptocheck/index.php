@@ -330,6 +330,25 @@ The next few if-blocks, after our news if-else block, display the output in quer
               f"\n[*] Source: https://www.coindesk.com/price/{sys.argv[1]}")
 </pre></code>
 
+<h3>get_news()</h3>
+<p>Moving on to our <code>get_news()</code> function, (which is placed right before 
+the <code>main()</code> function) we're going to scrape the latest news from CoinDesk.
+</p>
+<pre><code>
+def get_news():  # scrape news from coindesk
+    URL = f"https://www.coindesk.com/price/{sys.argv[1]}"
+    page = requests.get(URL)
+    soup = BeautifulSoup(page.text, 'html.parser')
+
+    for div in soup.findAll('div', class_="card-text-block"):
+        for h2 in div.findAll('h2', class_="heading"):
+            for i in range(1):
+                a = h2.find('a')
+                for index in range(1):
+                    b = a.find('a')
+                    news_val = a.get_text()
+                    news.append(news_val)
+</pre></code>
 
 <h3>banner.py</h3>
 <p>
