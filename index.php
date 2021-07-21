@@ -13,6 +13,7 @@
 The objective of this space is to expand and diversify my expertise on the fields I mentioned. I am an avid learner and researcher who embraces the challenge of learning something new everyday. Check me out on <a href="https://github.com/prodseanb">GitHub</a>.</p>
 
 <br/><br/>
+<hr/>
 <h2>CTFLearn POST Practice</h2>
 <pre><code>## @Date: Jul 20 2021</pre></code>
 <p>
@@ -21,6 +22,7 @@ In this short walkthrough, we will learn how to send a basic POST request using 
 </p>
 <h3><a href="/articles/post-practice/index.php">Read more...</a></h3>
 <br/><br/>
+<hr/>
 <h2>How to Scrape Cryptocurrency Data in Python</h2>
 <pre><code>## @Date: Jul 19 2021</pre></code>
 <p>
@@ -30,6 +32,7 @@ for real-time cryptocurrency data in Python using <a href="https://pypi.org/proj
 </p>
 <h3><a href="/articles/cryptocheck/index.php">Read more...</a></h3>
 <br/><br/>
+<hr/>
 <h2>What is Artificial Intelligence?</h2>
 <pre><code>## @Date: Jul 15 2021</pre></code>
 <p>
@@ -38,6 +41,7 @@ In this article, we will explore the global impacts of <b>Artificial Intelligenc
 </p>
 <h3><a href="/articles/ai/index.php">Read more...</a></h3>
 <br/><br/>
+<hr/>
 <h2>Mr. Robot CTF</h2>
 <pre><code>## @Date: Jul 15 2021</pre></code>
 <p>
@@ -47,6 +51,7 @@ In this article, we will explore this machine's vulnerabilities and find the 3 h
 </p>
 <h3><a href="/articles/mrrobot/index.php">Read more...</a></h3>
 <br/><br/>
+<hr/>
 <h2>Raven 1 CTF</h2>
 <pre><code>## @Date: Jul 12 2021</pre></code>
 <p>
@@ -57,6 +62,7 @@ In this article, we will explore this machine's vulnerabilities and find the 4 h
 
 
 <br/><br/>
+
 <table>
 <th>Media</th>
 </tr>

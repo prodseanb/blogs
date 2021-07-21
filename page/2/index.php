@@ -9,6 +9,7 @@ include($basedir.'includes/header.php');
 </span></code></pre></div></div>
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l2R09a5L5Bb6ppV7y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vaporwave-aesthetics-future-funk-l2R09a5L5Bb6ppV7y"></a></p>
 <br/><br/>
+<hr/>
 <h2>Kali Linux + Metasploitable Homelab Writeup</h2>
 <pre><code>## @Date: Jul 11 2021</pre></code>
 <p>
