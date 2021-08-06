@@ -10,6 +10,18 @@ include($basedir.'includes/header.php');
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l2R09a5L5Bb6ppV7y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vaporwave-aesthetics-future-funk-l2R09a5L5Bb6ppV7y"></a></p>
 <br/><br/>
 <hr/>
+
+<h2>Raven 1 CTF</h2>
+<pre><code>## @Date: Jul 12 2021</pre></code>
+<p>
+Raven is a beginner to intermediate vulnerable machine from the repository of <a href="https://www.vulnhub.com/">Vulnhub</a>.
+In this article, we will explore this machine's vulnerabilities and find the 4 hidden flags.
+</p>
+<h3><a href="/articles/raven1/index.php">Read more...</a></h3>
+
+
+<br/><br/>
+<hr/>
 <h2>Kali Linux + Metasploitable Homelab Writeup</h2>
 <pre><code>## @Date: Jul 11 2021</pre></code>
 <p>

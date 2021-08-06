@@ -14,6 +14,16 @@ The objective of this space is to expand and diversify my expertise on the field
 
 <br/><br/>
 <hr/>
+<h2>PHP 8.1.0-dev Backdoor Exploit</h2>
+<pre><code>## @Date: Aug 5 2021</pre></code>
+<p>
+There has been a recent RCE exploit for PHP version 8.1.0-dev, according to PHP repository maintainer Nikita Popov.
+Attackers can execute arbitrary code by sending a User-Agentt header on a server running 
+this PHP version.
+</p>
+<h3><a href="/articles/php-backdoor-exploit/index.php">Read more...</a></h3>
+<br/><br>
+<hr/>
 <h2>CTFLearn POST Practice</h2>
 <pre><code>## @Date: Jul 20 2021</pre></code>
 <p>
@@ -51,17 +61,7 @@ In this article, we will explore this machine's vulnerabilities and find the 3 h
 </p>
 <h3><a href="/articles/mrrobot/index.php">Read more...</a></h3>
 <br/><br/>
-<hr/>
-<h2>Raven 1 CTF</h2>
-<pre><code>## @Date: Jul 12 2021</pre></code>
-<p>
-Raven is a beginner to intermediate vulnerable machine from the repository of <a href="https://www.vulnhub.com/">Vulnhub</a>.
-In this article, we will explore this machine's vulnerabilities and find the 4 hidden flags.
-</p>
-<h3><a href="/articles/raven1/index.php">Read more...</a></h3>
 
-
-<br/><br/>
 
 <table>
 <th>Media</th>
