@@ -14,6 +14,15 @@ The objective of this space is to expand and diversify my expertise on the field
 
 <br/><br/>
 <hr/>
+<h2>Microsoft Revealed Another Windows Print Spooler Service RCE Vulnerability</h2>
+<pre><code>## @Date: Aug 13 2021</pre></code>
+<p>
+On August 11, 2021, Microsoft revealed yet another Windows 10 Print Spooler remote code execution vulnerability. This flaw is the latest bug in the list
+of Print Spooler service vulnerabilities known as the <a href="https://www.redscan.com/news/printnightmare-security-advisory/">PrintNightmare</a>.
+</p>
+<h3><a href="/articles/microsoft-print-spooler-bug/index.php">Read more...</a></h3>
+<br/><br/>
+<hr/>
 <h2>PHP 8.1.0-dev Backdoor Exploit</h2>
 <pre><code>## @Date: Aug 5 2021</pre></code>
 <p>
@@ -50,16 +59,7 @@ In this article, we will explore the global impacts of <b>Artificial Intelligenc
 (AI) and answer some of the most controversial questions regarding its nature.
 </p>
 <h3><a href="/articles/ai/index.php">Read more...</a></h3>
-<br/><br/>
-<hr/>
-<h2>Mr. Robot CTF</h2>
-<pre><code>## @Date: Jul 15 2021</pre></code>
-<p>
-Mr. Robot is a beginner to intermediate vulnerable machine from the repository of <a href="https://www.vulnhub.com/">Vulnhub</a>.
-This machine is based on a popular series called <a href="https://www.imdb.com/title/tt4158110/">Mr. Robot</a>.
-In this article, we will explore this machine's vulnerabilities and find the 3 hidden flags.
-</p>
-<h3><a href="/articles/mrrobot/index.php">Read more...</a></h3>
+
 <br/><br/>
 
 

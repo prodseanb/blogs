@@ -44,12 +44,12 @@
 
         <h3>Latest articles:</h3>
         <p>
+           <a href="/articles/microsoft-print-spooler-bug/index.php">📌 CVE-2021-36958</a><br/>
            <a href="/articles/php-backdoor-exploit/index.php">📌 PHP 8.1.0-dev RCE</a><br/>
            <a href="/articles/post-practice/index.php">📌 POST Practice</a><br />
            <a href="/articles/cryptocheck/index.php">📌 Python Crypto Scraper</a><br />
            <a href="/articles/ai/index.php">📌 Artificial Intelligence</a><br />
            <a href="/articles/mrrobot/index.php">📌 Mr. Robot</a><br />
-           <a href="/articles/raven1/index.php">📌 Raven: 1</a><br />
            
            
            
