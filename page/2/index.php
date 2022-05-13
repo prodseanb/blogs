@@ -17,9 +17,9 @@ In this article, we will explore the global impacts of <b>Artificial Intelligenc
 (AI) and answer some of the most controversial questions regarding its nature.
 </p>
 <h3><a href="/articles/ai/index.php">Read more...</a></h3>
+<br/><br/>
 <hr/>
 
-<br/><br/>
 <h2>Mr. Robot CTF</h2>
 <pre><code>## @Date: Jul 15 2021</pre></code>
 <p>
