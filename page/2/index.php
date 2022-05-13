@@ -10,6 +10,16 @@ include($basedir.'includes/header.php');
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l2R09a5L5Bb6ppV7y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vaporwave-aesthetics-future-funk-l2R09a5L5Bb6ppV7y"></a></p>
 <br/><br/>
 <hr/>
+<h2>What is Artificial Intelligence?</h2>
+<pre><code>## @Date: Jul 15 2021</pre></code>
+<p>
+In this article, we will explore the global impacts of <b>Artificial Intelligence</b> 
+(AI) and answer some of the most controversial questions regarding its nature.
+</p>
+<h3><a href="/articles/ai/index.php">Read more...</a></h3>
+<hr/>
+
+<br/><br/>
 <h2>Mr. Robot CTF</h2>
 <pre><code>## @Date: Jul 15 2021</pre></code>
 <p>
@@ -53,7 +63,7 @@ We are going to explore and simulate a pentesting lab environment with
 </tr>
 </tbody>
 </table>
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Edit: More articles will be uploaded soon.
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Edit: Stay tuned!
 </span></code></pre></div></div>
 
 <div class="page-nav">

@@ -5,13 +5,21 @@
       <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Author: Sean Bachiller
 </span></code></pre></div></div>
 <p><img src="https://user-images.githubusercontent.com/59718043/120569049-2921b700-c3e3-11eb-8375-987138650d68.gif" alt="coding-freak by https://dribbble.com/leanlongo" /></p>
-<h1 id="objective">Hello World!</h1>
+<h1 id="objective">0x6e0x650x720x64</h1>
 <p>
-  A brief introduction. My name is Sean Bachiller, I am an independent InfoSec researcher based in Toronto, Canada. I like 
-  doing CTFs, building home labs, programming, researching security trends, etc. This is my space for creative and analytic thinking.<br /><br /> 
-  This space contains all my research articles, walkthroughs, and opinions on a broad range of domains and fields such as Python, Artificial Intelligence and Machine Learning, Computer Systems and Networking, Linux, InfoSec, Cybersecurity, DevOps, and more along the world of computers and technology.<br /><br />
-The objective of this space is to expand and diversify my expertise on the fields I mentioned. I am an avid learner and researcher who embraces the challenge of learning something new everyday. Check me out on <a href="https://github.com/prodseanb">GitHub</a>.</p>
-
+  My name is Sean Bachiller, I am an IT Professional and student based in Toronto, Canada. I like 
+  doing CTFs, building home labs, programming, researching security trends, etc. This is my space for creative and analytical thinking.<br /><br /> 
+  This contains some of my research, walkthroughs, and opinions on a broad range of domains such as programming, AI/ML, Computer Systems and Networking, Linux, InfoSec, DevOps, and more along the world of computers and technology.<br /><br />
+The objective of this space is to expand and diversify my expertise on the aforementioned fields. I am an avid learner and student who embraces the challenge of learning something new everyday. Check me out on <a href="https://github.com/prodseanb">GitHub</a>.</p>
+<br/><br/>
+<hr/>
+<h2>How To Set Up a Malware Analysis Lab</h2>
+<pre><code>## @Date: May 12 2022</pre></code>
+<p>
+Have you ever considered messing around with a malware sample from sites like <a href="https://www.vx-underground.org/">vx-underground</a>? Do you want to set up an isolated environment where you could deploy your own malicious program
+to analyze its impact on the host/network? Don't worry, the process is fairly simple, and I will guide you through the whole thing.
+</p>
+<h3><a href="/articles/flare-vm-lab/index.php">Read more...</a></h3>
 <br/><br/>
 <hr/>
 <h2>Microsoft Revealed Another Windows Print Spooler Service RCE Vulnerability</h2>
@@ -51,16 +59,6 @@ for real-time cryptocurrency data in Python using <a href="https://pypi.org/proj
 </p>
 <h3><a href="/articles/cryptocheck/index.php">Read more...</a></h3>
 <br/><br/>
-<hr/>
-<h2>What is Artificial Intelligence?</h2>
-<pre><code>## @Date: Jul 15 2021</pre></code>
-<p>
-In this article, we will explore the global impacts of <b>Artificial Intelligence</b> 
-(AI) and answer some of the most controversial questions regarding its nature.
-</p>
-<h3><a href="/articles/ai/index.php">Read more...</a></h3>
-
-<br/><br/>
 
 
 <table>
@@ -70,21 +68,6 @@ In this article, we will explore the global impacts of <b>Artificial Intelligenc
 <tbody>
 <tr>
 <td><a href="https://dribbble.com/leanlongo">coding-freak via dribbble</a></td>
-</tr>
-<tr>
-<td><a href="https://icons8.com/icon/3AYCSzCO85Qw/mail">Mail icon by Icons8</a></td>
-</tr>
-<tr>
-<td><a href="https://icons8.com/icon/akG4VRhAoSii/github">GitHub icon by Icons8</a></td>
-</tr>
-<tr>
-<td><a href="https://icons8.com/icon/13930/linkedin">LinkedIn icon by Icons8</a></td>
-</tr>
-<tr>
-<td><a href="https://icons8.com/icon/xWVjuc9hryql/twitter">Twitter icon by Icons8</a></td>
-</tr>
-<tr>
-<td><a href="https://icons8.com/icon/b7j9GlRlLxxp/monitor">Monitor icon by Icons8</a></td>
 </tr>
 </tbody>
 </table>
