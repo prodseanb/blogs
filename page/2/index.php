@@ -7,7 +7,7 @@ include($basedir.'includes/header.php');
 
       <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Page: 2
 </span></code></pre></div></div>
-<br/>
+<hr/>
 <h2>What is Artificial Intelligence?</h2>
 <pre><code>## @Date: Jul 15 2021</pre></code>
 <p>
