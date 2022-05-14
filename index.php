@@ -4,7 +4,6 @@
 
       <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## @Author: Sean Bachiller
 </span></code></pre></div></div>
-<p><img src="https://user-images.githubusercontent.com/59718043/120569049-2921b700-c3e3-11eb-8375-987138650d68.gif" alt="coding-freak by https://dribbble.com/leanlongo" /></p>
 <h1 id="objective">0x6e0x650x720x64</h1>
 <p>
   My name is Sean Bachiller, I am an IT Professional and student based in Toronto, Canada. I like 

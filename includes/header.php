@@ -38,7 +38,7 @@
     
 
         <p>Tech blogs, security articles, programming, etc.</p>
-        <p><img src="https://user-images.githubusercontent.com/59718043/126366395-67ab3083-2fe9-4846-a43a-0f8266dcd99f.gif" alt="coding-freak by https://dribbble.com/leanlongo" /></p>
+        <p><img src="https://user-images.githubusercontent.com/59718043/120569049-2921b700-c3e3-11eb-8375-987138650d68.gif" alt="coding-freak by https://dribbble.com/leanlongo" /></p>
         
 
 
