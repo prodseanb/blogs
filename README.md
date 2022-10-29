@@ -13,4 +13,3 @@ As an open-source advocate, I invite you to contribute to this repository with y
 ## @Author: prodseanb
 ## @Edit: More documents will be uploaded soon.
 ```
-#### Check out [seanb.dev](https://seanb.dev/) for content.
